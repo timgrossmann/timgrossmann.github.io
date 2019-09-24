@@ -489,6 +489,12 @@ button.primary_btn {
 	}
 }
 
+@media (max-width: 450px) {
+	.home_banner_area {
+		background: white;
+	}
+}
+
 .home_banner_area .banner_inner {
 	width: 100%;
 	min-height: 890px
