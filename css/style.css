@@ -471,7 +471,7 @@ button.primary_btn {
 }
 
 .home_banner_area {
-	background: url(../img/banner/home-banner.png) no-repeat top center;
+	background: url(../img/banner/home-banner.jpeg) no-repeat top center;
 	background-position: center;
 	background-size: cover;
 	min-height: 890px; 
@@ -491,7 +491,7 @@ button.primary_btn {
 
 @media (max-width: 450px) {
 	.home_banner_area {
-		background: url(../img/banner/home-banner_small_15.png);
+		background: url(../img/banner/home-banner_small_15.jpeg);
 		background-position: center;
 		background-size: cover;
 	}
